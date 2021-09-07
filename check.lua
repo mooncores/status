@@ -1,5 +1,5 @@
 return {
-    ["🟡 A Universal Time"] = 5130598377,
+    ["🟢 A Universal Time"] = 5130598377,
     ["🟡 Arsenal"] = 286090429,
     ["🟡 Anime Battle Arena"] = 4520749081,
     ["🟡 Bad Business"] = 3233893879,
