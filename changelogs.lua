@@ -1,1 +1,3 @@
-a
+return {
+    ["🟢 A Universal Time"]
+}
